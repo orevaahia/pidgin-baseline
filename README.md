@@ -59,7 +59,7 @@ Please refer to the [experiments folder](./experiments) to see the result transl
 
 ## Acknowledgments
 
-Special thanks to the Masakhane group - [website](masakhane.io) and [github](https://github.com/masakhane-io) for literally catalysing this work. 
+Special thanks to the Masakhane group - [website](https://masakhane.io) and [github](https://github.com/masakhane-io) for literally catalysing this work. 
 
 
 
