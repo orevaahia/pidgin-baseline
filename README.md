@@ -45,7 +45,7 @@ To run the unsupervised baselines, follow the instructions in the [PidginUNMT re
 ### Bleu Scores
 
 **English to Pidgin Translation**:
-- Unsupervised Model (word-level) - 5.18
+- Unsupervised Model (word-level) - 5.18  
 - Supervised Model (word-level) - 17.73
 - Supervised Model (BPE) - **24.29**
 
@@ -54,8 +54,8 @@ To run the unsupervised baselines, follow the instructions in the [PidginUNMT re
 - Supervised Model (word-level) - **24.67**
 - Supervised Model (BPE) - 13.00
 
-### Model Translations
-Please refer to the [experiments folder](./experiments) to see the result translations by the different models. 
+### Model Translations and Trained Model Weights
+Please refer to the [experiments folder](./experiment_results) to see the result translations by the different models, as well as to access the trained model weights. 
 
 ## Acknowledgments
 
