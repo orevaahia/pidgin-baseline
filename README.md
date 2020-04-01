@@ -2,7 +2,7 @@
 
 This repository contains the code for the paper titled - Towards Supervised and Unsupervised Neural Machine Translation Baselines for Nigerian Pidgin - and presented at the International Learning on Language Representations (ICLR) 2020 workshop on African NLP, April 2020, Addis Ababa, Ethiopia.
 
-Link to paper - 
+Link to paper - [https://arxiv.org/abs/2003.12660](https://arxiv.org/abs/2003.12660)
 
 ## Running the Code:
 
