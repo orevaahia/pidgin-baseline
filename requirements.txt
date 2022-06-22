@@ -1,5 +1,5 @@
 fuzzywuzzy==0.18.0
-numpy==1.18.1
+numpy==1.22.0
 opustools-pkg==0.0.52
 pandas==1.0.1
 python-dateutil==2.8.1
